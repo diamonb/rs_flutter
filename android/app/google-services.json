@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776443872291",
+    "project_id": "rswil-f3386",
+    "storage_bucket": "rswil-f3386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776443872291:android:7aa5119f4271b75b045d96",
+        "android_client_info": {
+          "package_name": "com.diamond.rswil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776443872291-q07ba4i58im210quklhuqor1q9s1idm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diamond.rswil",
+            "certificate_hash": "d76bba59bcdcb45d3d197dc192a764eaff12873a"
+          }
+        },
+        {
+          "client_id": "776443872291-rg2fani08amisl4qfark59vg1ipukri4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocsZF9we4tGUm1TlcYbP4J3z5eli6TXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776443872291-rg2fani08amisl4qfark59vg1ipukri4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
